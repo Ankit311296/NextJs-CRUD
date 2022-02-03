@@ -35,7 +35,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Todo
 ### Create Notes
-![image](https://user-images.githubusercontent.com/90951656/152316240-c96ef405-95d4-4d45-9f1e-13775646ae7e.png)
+![image](https://user-images.githubusercontent.com/90951656/152322639-baf8f3a6-0dd3-4364-977d-2cb681e80397.png)
 
 ## View
 ![image](https://user-images.githubusercontent.com/90951656/152317246-8c34e031-02f9-4427-8f21-077c7d559d37.png)
