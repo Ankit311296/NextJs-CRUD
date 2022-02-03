@@ -37,3 +37,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ### Create Notes
 ![image](https://user-images.githubusercontent.com/90951656/152316240-c96ef405-95d4-4d45-9f1e-13775646ae7e.png)
 
+## View
+![image](https://user-images.githubusercontent.com/90951656/152317246-8c34e031-02f9-4427-8f21-077c7d559d37.png)
+
